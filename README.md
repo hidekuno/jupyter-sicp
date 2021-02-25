@@ -2,5 +2,5 @@
 =================
 
 ## 概要
-- jupyterを勉強するため、https://github.com/hidekuno/picture-languageのドキュメントを作成した
+- jupyterを勉強するため、ドキュメントを作成した(https://github.com/hidekuno/picture-language)
 - 詳細は(https://sicp.iijlab.net/fulltext/x224.html)
