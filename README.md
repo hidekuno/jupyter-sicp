@@ -1,7 +1,7 @@
-図形言語のドキュメント
+Document of picture language
 =================
 
-## 概要
-- jupyterを勉強するため、ドキュメントを作成した  
+## Overview
+- Created a picture anguage document to study jupyter.
   (https://github.com/hidekuno/picture-language)
-- オリジナルは(https://sicp.iijlab.net/fulltext/x224.html)
+- Refer to this URL for the original(https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book-Z-H-15.html#%_sec_2.2.4)
